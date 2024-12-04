@@ -1,0 +1,581 @@
+{
+    "version": "1.0",
+    "images": [
+        {
+            "image_file": "image1.jpg",
+            "board_state": [
+                "XXO",
+                "O_X",
+                "X_O"
+            ]
+        },
+        {
+            "image_file": "image10.jpg",
+            "board_state": [
+                "___",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image10_blue.jpg",
+            "board_state": [
+                "___",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image10_green.jpg",
+            "board_state": [
+                "___",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image10_h_flip.jpg",
+            "board_state": [
+                "___",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image10_red.jpg",
+            "board_state": [
+                "___",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image10_v_flip.jpg",
+            "board_state": [
+                "___",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image11.jpg",
+            "board_state": [
+                "XOX",
+                "__X",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image11_blue.jpg",
+            "board_state": [
+                "XOX",
+                "__X",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image11_green.jpg",
+            "board_state": [
+                "XOX",
+                "__X",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image11_h_flip.jpg",
+            "board_state": [
+                "XOX`",
+                "X__",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image11_red.jpg",
+            "board_state": [
+                "XOX",
+                "__X",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image11_v_flip.jpg",
+            "board_state": [
+                "OXO",
+                "__X",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image12.jpg",
+            "board_state": [
+                "OXO",
+                "X__",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image12_blue.jpg",
+            "board_state": [
+                "OXO",
+                "X__",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image12_green.jpg",
+            "board_state": [
+                "OXO",
+                "X__",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image12_h_flip.jpg",
+            "board_state": [
+                "OXO",
+                "__X",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image12_red.jpg",
+            "board_state": [
+                "OXO",
+                "X__",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image12_v_flip.jpg",
+            "board_state": [
+                "XOX",
+                "X__",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image1_blue.jpg",
+            "board_state": [
+                "OXO",
+                "XOX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image1_green.jpg",
+            "board_state": [
+                "XXO",
+                "O_X",
+                "X_O"
+            ]
+        },
+        {
+            "image_file": "image1_h_flip.jpg",
+            "board_state": [
+                "OXX",
+                "X_O",
+                "O_X"
+            ]
+        },
+        {
+            "image_file": "image1_red.jpg",
+            "board_state": [
+                "XXO",
+                "O_X",
+                "X_O"
+            ]
+        },
+        {
+            "image_file": "image1_v_flip.jpg",
+            "board_state": [
+                "X_O",
+                "O_X",
+                "XXO"
+            ]
+        },
+        {
+            "image_file": "image2.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image2_blue.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image2_green.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image2_h_flip.jpg",
+            "board_state": [
+                "XOX",
+                "XOO",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image2_red.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image2_v_flip.jpg",
+            "board_state": [
+                "OXO",
+                "OOX",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image3.jpg",
+            "board_state": [
+                "XXO",
+                "O_X",
+                "X_O"
+            ]
+        },
+        {
+            "image_file": "image3_blue.jpg",
+            "board_state": [
+                "XXO",
+                "O_X",
+                "X_O"
+            ]
+        },
+        {
+            "image_file": "image3_green.jpg",
+            "board_state": [
+                "XXO",
+                "O_X",
+                "X_O"
+            ]
+        },
+        {
+            "image_file": "image3_h_flip.jpg",
+            "board_state": [
+                "OXX",
+                "X_O",
+                "O_X"
+            ]
+        },
+        {
+            "image_file": "image3_red.jpg",
+            "board_state": [
+                "XXO",
+                "O_X",
+                "X_O"
+            ]
+        },
+        {
+            "image_file": "image3_v_flip.jpg",
+            "board_state": [
+                "X_O",
+                "O_X",
+                "XXO"
+            ]
+        },
+        {
+            "image_file": "image4.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "XXO"
+            ]
+        },
+        {
+            "image_file": "image4_blue.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "XXO"
+            ]
+        },
+        {
+            "image_file": "image4_green.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "XXO"
+            ]
+        },
+        {
+            "image_file": "image4_h_flip.jpg",
+            "board_state": [
+                "XOX",
+                "XOO",
+                "OXX"
+            ]
+        },
+        {
+            "image_file": "image4_red.jpg",
+            "board_state": [
+                "XOX",
+                "OOX",
+                "XXO"
+            ]
+        },
+        {
+            "image_file": "image4_v_flip.jpg",
+            "board_state": [
+                "XXO",
+                "OOX",
+                "XOX"
+            ]
+        },
+        {
+            "image_file": "image5.jpg",
+            "board_state": [
+                "XXX",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image5_blue.jpg",
+            "board_state": [
+                "XXX",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image5_green.jpg",
+            "board_state": [
+                "XXX",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image5_h_flip.jpg",
+            "board_state": [
+                "XXX",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image5_red.jpg",
+            "board_state": [
+                "XXX",
+                "___",
+                "___"
+            ]
+        },
+        {
+            "image_file": "image5_v_flip.jpg",
+            "board_state": [
+                "___",
+                "___",
+                "XXX"
+            ]
+        },
+        {
+            "image_file": "image6.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image6_blue.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image6_green.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image6_h_flip.jpg",
+            "board_state": [
+                "XO_",
+                "O_O",
+                "_XX"
+            ]
+        },
+        {
+            "image_file": "image6_red.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image6_v_flip.jpg",
+            "board_state": [
+                "XX_",
+                "O_O",
+                "_OX"
+            ]
+        },
+        {
+            "image_file": "image7.jpg",
+            "board_state": [
+                "XO_",
+                "X_O",
+                "_OX"
+            ]
+        },
+        {
+            "image_file": "image7_blue.jpg",
+            "board_state": [
+                "XO_",
+                "X_O",
+                "_OX"
+            ]
+        },
+        {
+            "image_file": "image7_green.jpg",
+            "board_state": [
+                "XO_",
+                "X_O",
+                "_OX"
+            ]
+        },
+        {
+            "image_file": "image7_h_flip.jpg",
+            "board_state": [
+                "_OX",
+                "O_X",
+                "XO_"
+            ]
+        },
+        {
+            "image_file": "image7_red.jpg",
+            "board_state": [
+                "XO_",
+                "X_O",
+                "_OX"
+            ]
+        },
+        {
+            "image_file": "image7_v_flip.jpg",
+            "board_state": [
+                "_OX",
+                "X_O",
+                "XO_"
+            ]
+        },
+        {
+            "image_file": "image8.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image8_blue.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image8_green.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image8_h_flip.jpg",
+            "board_state": [
+                "XO_",
+                "O_O",
+                "_XX"
+            ]
+        },
+        {
+            "image_file": "image8_red.jpg",
+            "board_state": [
+                "_OX",
+                "O_O",
+                "XX_"
+            ]
+        },
+        {
+            "image_file": "image8_v_flip.jpg",
+            "board_state": [
+                "XX_",
+                "O_O",
+                "_OX"
+            ]
+        },
+        {
+            "image_file": "image9.jpg",
+            "board_state": [
+                "XOX",
+                "_OX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image9_blue.jpg",
+            "board_state": [
+                "XOX",
+                "_OX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image9_green.jpg",
+            "board_state": [
+                "XOX",
+                "_OX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image9_h_flip.jpg",
+            "board_state": [
+                "XOX",
+                "XO_",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image9_red.jpg",
+            "board_state": [
+                "XOX",
+                "_OX",
+                "OXO"
+            ]
+        },
+        {
+            "image_file": "image9_v_flip.jpg",
+            "board_state": [
+                "OXO",
+                "_OX",
+                "XOX"
+            ]
+        }
+    ]
+}

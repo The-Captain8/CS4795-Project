@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "image1",
+    "image": "training/augmented_images/image1.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nO_X\nX_O"
+      }
+    ]
+  },
+  {
+    "id": "image10",
+    "image": "training/augmented_images/image10.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "___\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image10_blue",
+    "image": "training/augmented_images/image10_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "___\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image10_green",
+    "image": "training/augmented_images/image10_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "___\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image10_h_flip",
+    "image": "training/augmented_images/image10_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "___\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image10_red",
+    "image": "training/augmented_images/image10_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "___\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image10_v_flip",
+    "image": "training/augmented_images/image10_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "___\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image11",
+    "image": "training/augmented_images/image11.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n__X\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image11_blue",
+    "image": "training/augmented_images/image11_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n__X\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image11_green",
+    "image": "training/augmented_images/image11_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n__X\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image11_h_flip",
+    "image": "training/augmented_images/image11_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nX__\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image11_red",
+    "image": "training/augmented_images/image11_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n__X\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image11_v_flip",
+    "image": "training/augmented_images/image11_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\n__X\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image12",
+    "image": "training/augmented_images/image12.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\nX__\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image12_blue",
+    "image": "training/augmented_images/image12_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\nX__\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image12_green",
+    "image": "training/augmented_images/image12_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\nX__\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image12_h_flip",
+    "image": "training/augmented_images/image12_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\n__X\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image12_red",
+    "image": "training/augmented_images/image12_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\nX__\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image12_v_flip",
+    "image": "training/augmented_images/image12_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nX__\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image1_blue",
+    "image": "training/augmented_images/image1_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\nXOX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image1_green",
+    "image": "training/augmented_images/image1_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nO_X\nX_O"
+      }
+    ]
+  },
+  {
+    "id": "image1_h_flip",
+    "image": "training/augmented_images/image1_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXX\nX_O\nO_X"
+      }
+    ]
+  },
+  {
+    "id": "image1_red",
+    "image": "training/augmented_images/image1_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nO_X\nX_O"
+      }
+    ]
+  },
+  {
+    "id": "image1_v_flip",
+    "image": "training/augmented_images/image1_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "X_O\nO_X\nXXO"
+      }
+    ]
+  },
+  {
+    "id": "image2",
+    "image": "training/augmented_images/image2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image2_blue",
+    "image": "training/augmented_images/image2_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image2_green",
+    "image": "training/augmented_images/image2_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image2_h_flip",
+    "image": "training/augmented_images/image2_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nXOO\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image2_red",
+    "image": "training/augmented_images/image2_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image2_v_flip",
+    "image": "training/augmented_images/image2_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\nOOX\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image3",
+    "image": "training/augmented_images/image3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nO_X\nX_O"
+      }
+    ]
+  },
+  {
+    "id": "image3_blue",
+    "image": "training/augmented_images/image3_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nO_X\nX_O"
+      }
+    ]
+  },
+  {
+    "id": "image3_green",
+    "image": "training/augmented_images/image3_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nO_X\nX_O"
+      }
+    ]
+  },
+  {
+    "id": "image3_h_flip",
+    "image": "training/augmented_images/image3_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXX\nX_O\nO_X"
+      }
+    ]
+  },
+  {
+    "id": "image3_red",
+    "image": "training/augmented_images/image3_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nO_X\nX_O"
+      }
+    ]
+  },
+  {
+    "id": "image3_v_flip",
+    "image": "training/augmented_images/image3_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "X_O\nO_X\nXXO"
+      }
+    ]
+  },
+  {
+    "id": "image4",
+    "image": "training/augmented_images/image4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nXXO"
+      }
+    ]
+  },
+  {
+    "id": "image4_blue",
+    "image": "training/augmented_images/image4_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nXXO"
+      }
+    ]
+  },
+  {
+    "id": "image4_green",
+    "image": "training/augmented_images/image4_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nXXO"
+      }
+    ]
+  },
+  {
+    "id": "image4_h_flip",
+    "image": "training/augmented_images/image4_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nXOO\nOXX"
+      }
+    ]
+  },
+  {
+    "id": "image4_red",
+    "image": "training/augmented_images/image4_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nOOX\nXXO"
+      }
+    ]
+  },
+  {
+    "id": "image4_v_flip",
+    "image": "training/augmented_images/image4_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXO\nOOX\nXOX"
+      }
+    ]
+  },
+  {
+    "id": "image5",
+    "image": "training/augmented_images/image5.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXX\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image5_blue",
+    "image": "training/augmented_images/image5_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXX\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image5_green",
+    "image": "training/augmented_images/image5_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXX\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image5_h_flip",
+    "image": "training/augmented_images/image5_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXX\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image5_red",
+    "image": "training/augmented_images/image5_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XXX\n___\n___"
+      }
+    ]
+  },
+  {
+    "id": "image5_v_flip",
+    "image": "training/augmented_images/image5_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "___\n___\nXXX"
+      }
+    ]
+  },
+  {
+    "id": "image6",
+    "image": "training/augmented_images/image6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image6_blue",
+    "image": "training/augmented_images/image6_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image6_green",
+    "image": "training/augmented_images/image6_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image6_h_flip",
+    "image": "training/augmented_images/image6_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XO_\nO_O\n_XX"
+      }
+    ]
+  },
+  {
+    "id": "image6_red",
+    "image": "training/augmented_images/image6_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image6_v_flip",
+    "image": "training/augmented_images/image6_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XX_\nO_O\n_OX"
+      }
+    ]
+  },
+  {
+    "id": "image7",
+    "image": "training/augmented_images/image7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XO_\nX_O\n_OX"
+      }
+    ]
+  },
+  {
+    "id": "image7_blue",
+    "image": "training/augmented_images/image7_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XO_\nX_O\n_OX"
+      }
+    ]
+  },
+  {
+    "id": "image7_green",
+    "image": "training/augmented_images/image7_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XO_\nX_O\n_OX"
+      }
+    ]
+  },
+  {
+    "id": "image7_h_flip",
+    "image": "training/augmented_images/image7_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_X\nXO_"
+      }
+    ]
+  },
+  {
+    "id": "image7_red",
+    "image": "training/augmented_images/image7_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XO_\nX_O\n_OX"
+      }
+    ]
+  },
+  {
+    "id": "image7_v_flip",
+    "image": "training/augmented_images/image7_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nX_O\nXO_"
+      }
+    ]
+  },
+  {
+    "id": "image8",
+    "image": "training/augmented_images/image8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image8_blue",
+    "image": "training/augmented_images/image8_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image8_green",
+    "image": "training/augmented_images/image8_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image8_h_flip",
+    "image": "training/augmented_images/image8_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XO_\nO_O\n_XX"
+      }
+    ]
+  },
+  {
+    "id": "image8_red",
+    "image": "training/augmented_images/image8_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "_OX\nO_O\nXX_"
+      }
+    ]
+  },
+  {
+    "id": "image8_v_flip",
+    "image": "training/augmented_images/image8_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XX_\nO_O\n_OX"
+      }
+    ]
+  },
+  {
+    "id": "image9",
+    "image": "training/augmented_images/image9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n_OX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image9_blue",
+    "image": "training/augmented_images/image9_blue.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n_OX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image9_green",
+    "image": "training/augmented_images/image9_green.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n_OX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image9_h_flip",
+    "image": "training/augmented_images/image9_h_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\nXO_\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image9_red",
+    "image": "training/augmented_images/image9_red.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "XOX\n_OX\nOXO"
+      }
+    ]
+  },
+  {
+    "id": "image9_v_flip",
+    "image": "training/augmented_images/image9_v_flip.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDetermine the tic-tac-toe game state from the following image, provide the game state as a 3x3 matrix using the X, O, and _ characters"
+      },
+      {
+        "from": "gpt",
+        "value": "OXO\n_OX\nXOX"
+      }
+    ]
+  }
+]
