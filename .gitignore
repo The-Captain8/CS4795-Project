@@ -1,3 +1,4 @@
-./training/*
-./checkpoints/*
-./__pycache__/*
+training/images/**
+training/augmented_images/**
+checkpoints/**
+__pycache__/**
