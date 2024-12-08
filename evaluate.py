@@ -45,6 +45,7 @@ def evaluate(network: NeuralNetwork, input_vectors, target_matrices):
     Returns the cumulative error and the average error
     """
     cumulative_error = 0
+    error_values = []
 
     for i in range(len(input_vectors)):
         error_count = 0
@@ -58,8 +59,8 @@ def evaluate(network: NeuralNetwork, input_vectors, target_matrices):
         
         error_rate = error_count / 9
         cumulative_error += error_rate
-
-    return cumulative_error / len(input_vectors)
+        error_values.append(error_rate)
+    return cumulative_error / len(input_vectors), max(error_values), min(error_values)
 
 
 for i in range(len(annotations["image"])):
@@ -86,4 +87,4 @@ errors = nn.train(input_vectors, target_matrices, iterations=ITERATIONS)
 error = evaluate(nn, input_vectors, target_matrices)
 
 print(f'Training iterations: {ITERATIONS}, Image dimension: {DIMENSION}X{DIMENSION}')
-print(f'Average error: {error}')
+print(f'Average error: {error[0]}, Max error: {error[1]}, Min error: {error[2]}')
