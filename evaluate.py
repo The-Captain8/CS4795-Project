@@ -49,7 +49,7 @@ def evaluate(network: NeuralNetwork, input_vectors, target_matrices):
     for i in range(len(input_vectors)):
         error_count = 0
         prediction = network.predict(input_vectors[i])[0]
-        prediction = [int_to_symbol(element) for element in prediction]
+        prediction = [int_to_symbol(element) for row in prediction for element in row]
         target_matrix = [int_to_symbol(element) for row in target_matrices[i] for element in row]
 
         for i in range(9):
