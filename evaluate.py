@@ -10,12 +10,13 @@ from NeuralNetwork import NeuralNetwork
 import cv2
 
 DIMENSION = 256
-ITERATIONS = 10000
+ITERATIONS = 1000
+HIDDEN_NEURONS = 128
 
 input_vectors = []
 target_matrices = []
 
-annotations = pd.read_json("./training/augmented_annotations_copy.json").to_dict()
+annotations = pd.read_json("./training/augmented_annotations.json").to_dict()
 
 def symbol_to_int(symbol):
     if symbol == "O":
@@ -39,20 +40,26 @@ def predict_and_print(network: NeuralNetwork, vector):
           list(map(int_to_symbol, predictions[1])), '\n', \
           list(map(int_to_symbol, predictions[2])))
     
-def get_error(predictions, target):
-    return np.sum(np.square(predictions - target))
-    
 def evaluate(network: NeuralNetwork, input_vectors, target_matrices):
     """
     Returns the cumulative error and the average error
     """
     cumulative_error = 0
-    for i in range(len(input_vectors)):
-        prediction = network.predict(input_vectors[i])[0]
-        error = get_error(prediction, target_matrices[i])
-        cumulative_error += error
 
-    return cumulative_error, cumulative_error / len(input_vectors)
+    for i in range(len(input_vectors)):
+        error_count = 0
+        prediction = network.predict(input_vectors[i])[0]
+        prediction = [int_to_symbol(element) for element in prediction]
+        target_matrix = [int_to_symbol(element) for row in target_matrices[i] for element in row]
+
+        for i in range(9):
+            if prediction[i] != target_matrix[i]:
+                error_count += 1
+        
+        error_rate = error_count / 9
+        cumulative_error += error_rate
+
+    return cumulative_error / len(input_vectors)
 
 
 for i in range(len(annotations["image"])):
@@ -73,10 +80,10 @@ for i in range(len(annotations["image"])):
     target_matrices.append(target_matrix)
 
 
-nn = NeuralNetwork(learning_rate=0.01, input_dimension=DIMENSION*DIMENSION*3, output_shape=(3, 3))
+nn = NeuralNetwork(learning_rate=0.01, input_dimension=DIMENSION*DIMENSION*3, hidden_neurons=HIDDEN_NEURONS, output_shape=(3, 3))
 errors = nn.train(input_vectors, target_matrices, iterations=ITERATIONS)
 
 error = evaluate(nn, input_vectors, target_matrices)
 
 print(f'Training iterations: {ITERATIONS}, Image dimension: {DIMENSION}X{DIMENSION}')
-print(f'Cumulative error: {error[0]}, Average error: {error[1]}')
+print(f'Average error: {error}')

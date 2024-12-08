@@ -1,4 +1,6 @@
 training/images/**
+!training/images/*.jpg
 training/augmented_images/**
+!training/augmented_images/*.jpg
 checkpoints/**
 __pycache__/**
